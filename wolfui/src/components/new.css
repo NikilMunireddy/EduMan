@@ -1,0 +1,31 @@
+.input_width{
+  width: 98%;
+  left:10px;
+  right:10px;
+}
+.card_color{
+  color:whitesmoke;
+}
+div.parent {
+  position: relative;
+  height: 200px;
+}
+div.sticky {
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+} 
+
+.mdl-textfield{
+  width:100%;
+}
+.demo-card-wide.mdl-card {
+  width: auto;
+}
+.demo-card-wide > .mdl-card__title {
+  color: rgba(255, 255, 255, 0.904);
+ 
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
