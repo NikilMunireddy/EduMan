@@ -9,14 +9,14 @@ SOlution to the problem
 ![Image description](./screenshorts/res.png)
 
 ## how to run ?
-First clone or download the project the run
+First clone or download the project then run following commands 
 ```
 $ npm install
 $ node index.js
 ```
 Open another terminal 
 ```
-$cd wolfui
+$ cd wolfui
 $ npm install
 $ npm run start
 ```
