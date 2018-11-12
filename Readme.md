@@ -20,4 +20,4 @@ $ cd wolfui
 $ npm install
 $ npm run start
 ```
-### Don't forget to replace IO_URL (wolfui/src/componentswith your home network IP.
+### Don't forget to replace IO_URL (wolfui/src/components/App.jsx) with your home network IP.
